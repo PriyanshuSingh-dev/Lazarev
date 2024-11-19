@@ -129,7 +129,7 @@ function pagge2Animation() {
         })
     });
 }
-
+.0
 function page3VideoAnimation() {
     var page3Center = document.querySelector(".page3-center")
 
